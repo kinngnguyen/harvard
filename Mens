@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Table tennis Men</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+      <h1>Table Tennis Mens ranking</h1>
+      <hr>
+    </header>
+    <table border = "1">
+      <tr>
+        <th>Ranking<th>
+        <th>Name</th>
+        <th>Country</th>
+        <th>Points</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Fan Zhendong</td>
+        <td>China</td>
+        <td>12,494</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Ma Long</td>
+        <td>China</td>
+        <td>12,212</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Xu Xin</td>
+        <td>China</td>
+        <td>10,356</td>
+      </tr>
+    </table>
+    <script src="script.js"></script>
+  </body>
+</html>
